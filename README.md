@@ -4,7 +4,7 @@
 
 *  Sander Henrique | RA: 2053861
 *  Leonardo Garcia | RA: 2170736
-*  Vinicius Ferreira | RA:
+*  Vinicius Ferreira | RA: 2053217
 
 ## Status: Concluído 🔨
 
