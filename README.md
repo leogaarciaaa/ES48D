@@ -1,1 +1,1 @@
-# ES48D
+# Reconhecimento de imagens através da técnica Hu Moments
